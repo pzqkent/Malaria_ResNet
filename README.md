@@ -13,3 +13,6 @@ The model took about 50 minutes to train on AWS EC2 g2.2xlarge instance(NVIDIA G
 Every epoch took about 138s to train and every step of each epoch cost about 223ms.
 
 Got Accuracy = 0.97, Presion = 0.98, Recall = 0.95, F1 = 0.96, F2 = 0.96 on test set(5512 images in total).
+
+![Aaron Swartz](https://github.com/pzqkent/Malaria_ResNet/raw/master/screenshot/Screen%20Shot%202019-01-02%20at%2011.47.24%20PM.png?raw=true)
+https://github.com/pzqkent/Malaria_ResNet/blob/master/screenshot/Screen%20Shot%202019-01-02%20at%2011.47.24%20PM.png?raw=true
