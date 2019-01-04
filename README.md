@@ -20,6 +20,6 @@ Got Accuracy = 0.97, Presion = 0.98, Recall = 0.95, F1 = 0.96, F2 = 0.96 on test
 
 
 #credit   
-The ResNet adapted from book book Deep Learning for Computer Vision with Python.  
+The ResNet adapted from book Deep Learning for Computer Vision with Python.  
 Metrics.py adapted from pape https://github.com/keras-team/keras/issues/5400
 
