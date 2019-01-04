@@ -1,5 +1,6 @@
 # Malaria_ResNet
-Malaria dataset from NIH https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip and the codes at https://ceb.nlm.nih.gov/proj/malaria/malaria_cell_classification_code.zip.
+Malaria dataset from NIH https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip
+
 config1.py provides the address of the dataset and the train/dev/test split ratio.
 
 build_dataset1.py will split the dataset into three parts as ratio defined in config1.py
