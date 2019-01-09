@@ -23,4 +23,4 @@ Got Accuracy = 0.97, Presion = 0.98, Recall = 0.95, F1 = 0.96, F2 = 0.96 on test
 The ResNet adapted from book Deep Learning for Computer Vision with Python.  
 Metrics.py adapted from pape https://github.com/keras-team/keras/issues/5400
 
-https://github.com/pzqkent/Malaria_ResNet/blob/master/my_resnet.png?raw=true
+
