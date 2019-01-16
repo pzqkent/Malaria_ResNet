@@ -17,9 +17,10 @@ Every epoch took about 138s to train and every step of each epoch cost about 223
 Got Accuracy = 0.97, Presion = 0.98, Recall = 0.95, F1 = 0.96, F2 = 0.96 on test set(5512 images in total).
 
 ![Aaron Swartz](https://github.com/pzqkent/Malaria_ResNet/raw/master/screenshot/Screen%20Shot%202019-01-02%20at%2011.47.24%20PM.png?raw=true)
-
+![Aaron Swartz](https://github.com/pzqkent/Malaria_ResNet/raw/master/my_resnet.png?raw=true)
 
 #credit   
 The ResNet adapted from book Deep Learning for Computer Vision with Python.  
 Metrics.py adapted from pape https://github.com/keras-team/keras/issues/5400
+
 
